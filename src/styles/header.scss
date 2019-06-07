@@ -1,0 +1,12 @@
+.header-wrapper {
+  flex-direction: column;
+  .title {
+    color: rgb(65, 85, 28);
+  }
+  .user-avatar-box {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    border-radius: 50%;
+  }
+}

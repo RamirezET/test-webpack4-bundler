@@ -7,6 +7,9 @@
 
 ```bash
 
+# clone project
+git clone https://github.com/RamirezET/test-webpack4-bundler.git
+
 # Install dependencies
 npm i
 
@@ -21,7 +24,6 @@ npm run dev
 
 # build for production environment
 npm run build
-
 
 ```
 
